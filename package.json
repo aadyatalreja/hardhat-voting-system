@@ -11,12 +11,14 @@
   "description": "",
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
     "hardhat": "^2.22.19",
     "hardhat-gas-reporter": "^1.0.10",
     "solidity-coverage": "^0.8.14"
   },
   "dependencies": {
-    "@nomicfoundation/hardhat-ethers": "^3.0.8",
-    "ethers": "^6.13.5"
+    "@nomicfoundation/hardhat-ethers": "^3.0.8"
   }
 }

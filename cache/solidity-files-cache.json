@@ -2,17 +2,17 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\Aadya\\OneDrive\\Documents\\Semester 4\\Advanced Blockchain\\voting-system\\contracts\\VotingSystem.sol": {
-      "lastModificationDate": 1743068678185,
+      "lastModificationDate": 1743070079119,
       "contentHash": "a87a82e6bc9f73d082b01aa6067fc928",
       "sourceName": "contracts/VotingSystem.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.28",
         "settings": {
+          "evmVersion": "paris",
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
-          "evmVersion": "paris",
           "outputSelection": {
             "*": {
               "*": [
@@ -44,13 +44,13 @@
       "contentHash": "681c532e816169606d13a5fe8b475074",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
-        "version": "0.8.24",
+        "version": "0.8.28",
         "settings": {
+          "evmVersion": "paris",
           "optimizer": {
-            "enabled": true,
+            "enabled": false,
             "runs": 200
           },
-          "evmVersion": "paris",
           "outputSelection": {
             "*": {
               "*": [
